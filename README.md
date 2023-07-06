@@ -69,7 +69,11 @@ Install osTicket v1.15.8
 - Extract and copy “upload” folder to c:\inetpub\wwwroot
 - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 - Reload IIS
+- Go to sites > Default > osTicket. On the right click "Browse *.80(http)"
+- This webpage will open and show some installation and extensions information.
 </p>
+
+
 <br />
 
 <p>
